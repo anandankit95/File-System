@@ -1,6 +1,10 @@
 # File-System
 A Simple File System for UNIX
 
+# Requirements
+1. FUSE (version 30 or higher)
+2. UNIX based Operating System
+
 
 # Description
 This Repository contains the code for a simple file system implemented for UNIX. The File system is implemented using File System in User Space (FUSE) and has persistent storage capabilities.
